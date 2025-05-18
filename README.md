@@ -1,2 +1,2 @@
 # Aula-ADM-Redes-de-Computadore
-Aula de Redes de Comput
+Aula de Redes de Compu
